@@ -1,0 +1,42 @@
+.navbar {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.bag {
+    color: white;
+    margin-top: 10px;
+    margin-right: 7px;
+
+}
+
+.heading {
+    color: white;
+    margin-right: 600px;
+    font-size: 50px;
+}
+
+.form-control {
+    padding: 5px;
+}
+
+.btn {
+    padding: 5px;
+}
+
+.links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+}
